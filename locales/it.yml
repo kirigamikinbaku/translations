@@ -46,14 +46,14 @@ it:
     following: Segui già
   footer:
     advertising: Advertising
-    contact: Contact Us
-    glossary: Glossary
+    contact: Contattaci 
+    glossary: Glossario
     help: Aiuto
     privacy: Privacy
-  forgot_password:
+  forgot_password: Password domenticata
     email:
       cta: Inviatemi un'email con le istruzioni
-      error_forgot_email: Email address is required.
+      error_forgot_email: L'indirizzo email è richiesto.
       error_invalid_email: Questo non sembra un indirizzo email valido. Rivedilo e rinvialo per favore.
       error_quota: Siamo in grado di inviare solo due email all'ora per ogni indirizzo di posta elettronica. Ti prego di controllare due volte che la nostra email non sia finita nel tuo filtro anti-spam. Se non riesci a trovare qualcosa nel filtro anti-spam ti consiglio di utilizzare uno degli altri metodi di cui sopra per entrare nel tuo account.
       placeholder: Indirizzo email
@@ -84,9 +84,9 @@ it:
         cta: Verifica che TU sia TU &#8482;
         error_code_match: "<strong>Operatore Kinky:</strong> Il codice di verifica inserito non è corretto. Verifica che il numero di cui sopra corrisponda a quello che hai ricevuto da noi e riprova. Questa è una registrazione."
         inexisting_number: Se dopo un paio di minuti non ricevi un messaggio di testo da noi, allora è probabile che non abbiamo un profilo collegato al numero. Ti consigliamo di <a href="%{forgot_password_email_path}">provare a reimpostare la password utilizzando un altro metodo</a> o <a href="%{signup_path}">creare un nuovo profilo su FetLife</a>.
-        label: 6-digit Verification Code
+        label: Codice di verifica a sei cifre
         page_title: Inserisci il codice di verifica
-        subtitle: Please enter the 6-digit code we "might" have just sent to you at %{phone_number}.
+        subtitle: Per favore inserisci il codice di verifica che "potremmo" averti appena inviato al %{phone_number}.
         title: Inserisci il codice di verifica
       warning: "<strong>Avviso del Ministero della Sanità:</strong> Per motivi di sicurezza, non possiamo dire se un numero di cellulare esiste nel nostro database oppure no. Se non si riceve un messaggio di testo da noi, è probabile che non abbiamo un account associato a quel numero."
     next_step: passo successivo
@@ -94,16 +94,16 @@ it:
     tab_email: Email
     tab_mobile: Cellulare
   guidelines:
-    header: FetLife Guidelines & Legalese
+    header: Linee guida e documenti legali di Fetlife
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
+      community: Linee guida per la Community
+      content: Linee guida per i contenuti 
+      group_leader: Linee guida per gli amministratori dei gruppi
     last_updated: 'Ultimo aggiornamento:'
     sections:
       guidelines:
-        description: To help make FetLife a fun place for everyone, we kindly ask everyone to follow our Content, Community, and Group guidelines.
-        title: Guidelines
+        description: Per fare sì che Fetlife sia un posto divertente per tutti, chiediamo di rispettare le linee guida per i contenuti, per la community, e per i gruppi.
+        title: Linee guida
       legalese:
         description: This section contains the Terms of Use all members agree to when they sign up for FetLife. We've tried to keep things as simple and clear as possible!
         title: Legalese
